@@ -1,11 +1,11 @@
 # Site settings
 author: Mark Enright
-title: 
+title: CLI Premier League Table
 header-img: img/home-bg.png
 email: enright.mark@gmail.com
 copyright_name: Mark Enright
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Lessons learned from creating a simple CLI tool 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  markenright
